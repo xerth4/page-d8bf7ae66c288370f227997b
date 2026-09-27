@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.158you.cn/sitemap.xml
